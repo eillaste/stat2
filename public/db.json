@@ -1,0 +1,196 @@
+{
+	"data1": {
+		"subject": "Keskmine brutokuupalk (€)",
+		"data": [
+			{ "aasta": "2006", "I kvartal": "549", "II kvartal": "609", "III kvartal": "580", "IV kvartal": "653" },
+			{ "aasta": "2007", "I kvartal": "660", "II kvartal": "738", "III kvartal": "697", "IV kvartal": "784" },
+			{ "aasta": "2008", "I kvartal": "788", "II kvartal": "850", "III kvartal": "800", "IV kvartal": "838" },
+			{ "aasta": "2009", "I kvartal": "776", "II kvartal": "813", "III kvartal": "752", "IV kvartal": "783" },
+			{ "aasta": "2010", "I kvartal": "758", "II kvartal": "822", "III kvartal": "759", "IV kvartal": "814" },
+			{ "aasta": "2011", "I kvartal": "792", "II kvartal": "857", "III kvartal": "809", "IV kvartal": "865" },
+			{ "aasta": "2012", "I kvartal": "847", "II kvartal": "900", "III kvartal": "855", "IV kvartal": "916" },
+			{ "aasta": "2013", "I kvartal": "900", "II kvartal": "976", "III kvartal": "930", "IV kvartal": "986" },
+			{
+				"aasta": "2014",
+				"I kvartal": "966",
+				"II kvartal": "1023",
+				"III kvartal": "977",
+				"IV kvartal": "1039"
+			},
+			{
+				"aasta": "2015",
+				"I kvartal": "1010",
+				"II kvartal": "1082",
+				"III kvartal": "1045",
+				"IV kvartal": "1105"
+			},
+			{
+				"aasta": "2016",
+				"I kvartal": "1091",
+				"II kvartal": "1163",
+				"III kvartal": "1119",
+				"IV kvartal": "1182"
+			},
+			{
+				"aasta": "2017",
+				"I kvartal": "1153",
+				"II kvartal": "1242",
+				"III kvartal": "1201",
+				"IV kvartal": "1271"
+			},
+			{ "aasta": "2018", "I kvartal": "1242", "II kvartal": "1321", "III kvartal": "-", "IV kvartal": "-" }
+		]
+	},
+	"data2": {
+		"subject": "SKP jooksevhindades (mln €)",
+		"data": [
+			{
+				"aasta": "2010",
+				"I kvartal": "3514.3",
+				"II kvartal": "3603.0",
+				"III kvartal": "3740.2",
+				"IV kvartal": "3851.0"
+			},
+			{
+				"aasta": "2011",
+				"I kvartal": "4032.8",
+				"II kvartal": "4126.4",
+				"III kvartal": "4220.1",
+				"IV kvartal": "4281.3"
+			},
+			{
+				"aasta": "2012",
+				"I kvartal": "4365.9",
+				"II kvartal": "4468.9",
+				"III kvartal": "4530.3",
+				"IV kvartal": "4563.2"
+			},
+			{
+				"aasta": "2013",
+				"I kvartal": "4690.5",
+				"II kvartal": "4690.5",
+				"III kvartal": "4777.5",
+				"IV kvartal": "4803.3"
+			},
+			{
+				"aasta": "2014",
+				"I kvartal": "4929.2",
+				"II kvartal": "4978.1",
+				"III kvartal": "5014.1",
+				"IV kvartal": "5129.5"
+			},
+			{
+				"aasta": "2015",
+				"I kvartal": "5066.0",
+				"II kvartal": "5141.3",
+				"III kvartal": "5202.7",
+				"IV kvartal": "5236.5"
+			},
+			{
+				"aasta": "2016",
+				"I kvartal": "5304.2",
+				"II kvartal": "5325.6",
+				"III kvartal": "5451.9",
+				"IV kvartal": "5594.1"
+			},
+			{
+				"aasta": "2017",
+				"I kvartal": "5736.0",
+				"II kvartal": "5855.3",
+				"III kvartal": "5938.5",
+				"IV kvartal": "6073.6"
+			},
+			{
+				"aasta": "2018",
+				"I kvartal": "6176.1",
+				"II kvartal": "6322.8",
+				"III kvartal": "-",
+				"IV kvartal": "-"
+			}
+		]
+	},
+	"data3": {
+		"subject": "Töötuse määr (%)",
+		"data": [
+			{ "aasta": "2006", "I kvartal": "6.6", "II kvartal": "6.2", "III kvartal": "5.4", "IV kvartal": "5.5" },
+			{ "aasta": "2007", "I kvartal": "5.3", "II kvartal": "4.9", "III kvartal": "4.1", "IV kvartal": "4.1" },
+			{ "aasta": "2008", "I kvartal": "4.1", "II kvartal": "4.0", "III kvartal": "6.2", "IV kvartal": "7.4" },
+			{
+				"aasta": "2009",
+				"I kvartal": "11.2",
+				"II kvartal": "13.2",
+				"III kvartal": "14.4",
+				"IV kvartal": "15.5"
+			},
+			{
+				"aasta": "2010",
+				"I kvartal": "19.5",
+				"II kvartal": "18.3",
+				"III kvartal": "15.4",
+				"IV kvartal": "13.6"
+			},
+			{
+				"aasta": "2011",
+				"I kvartal": "14.3",
+				"II kvartal": "13.0",
+				"III kvartal": "10.7",
+				"IV kvartal": "11.3"
+			},
+			{
+				"aasta": "2012",
+				"I kvartal": "11.3",
+				"II kvartal": "10.1",
+				"III kvartal": "9.5",
+				"IV kvartal": "9.1"
+			},
+			{
+				"aasta": "2013",
+				"I kvartal": "10.0",
+				"II kvartal": "8.0",
+				"III kvartal": "7.8",
+				"IV kvartal": "8.7"
+			},
+			{ "aasta": "2014", "I kvartal": "8.5", "II kvartal": "7.0", "III kvartal": "7.5", "IV kvartal": "6.3" },
+			{ "aasta": "2015", "I kvartal": "6.6", "II kvartal": "6.5", "III kvartal": "5.2", "IV kvartal": "6.4" },
+			{ "aasta": "2016", "I kvartal": "6.5", "II kvartal": "6.5", "III kvartal": "7.5", "IV kvartal": "6.6" },
+			{ "aasta": "2017", "I kvartal": "5.6", "II kvartal": "7.0", "III kvartal": "5.2", "IV kvartal": "5.3" },
+			{ "aasta": "2018", "I kvartal": "6.7", "II kvartal": "5.1", "III kvartal": "-", "IV kvartal": "-" }
+		]
+	},
+	"data4": {
+		"subject": "Tarbijahinnaindeks (%)",
+		"data": [
+			{ "aasta": "2005", "I kvartal": "4.1" },
+			{ "aasta": "2006", "I kvartal": "4.4" },
+			{ "aasta": "2007", "I kvartal": "6.6" },
+			{ "aasta": "2008", "I kvartal": "10.4" },
+			{ "aasta": "2009", "I kvartal": "-0.1" },
+			{ "aasta": "2010", "I kvartal": "3.0" },
+			{ "aasta": "2011", "I kvartal": "5.0" },
+			{ "aasta": "2012", "I kvartal": "3.9" },
+			{ "aasta": "2013", "I kvartal": "2.8" },
+			{ "aasta": "2014", "I kvartal": "-0.1" },
+			{ "aasta": "2015", "I kvartal": "-0.5" },
+			{ "aasta": "2016", "I kvartal": "0.1" },
+			{ "aasta": "2017", "I kvartal": "3.4" }
+		]
+	},
+	"data5": {
+		"subject": "Rahvaarv",
+		"data": [
+			{ "aasta": "2006", "mehed ja naised": "1350700", "mehed": "627930", "naised": "722770", "-": "-" },
+			{ "aasta": "2007", "mehed ja naised": "1342920", "mehed": "624260", "naised": "718660", "-": "-" },
+			{ "aasta": "2008", "mehed ja naised": "1338740", "mehed": "622050", "naised": "716390", "-": "-" },
+			{ "aasta": "2009", "mehed ja naised": "1335740", "mehed": "621320", "naised": "714420", "-": "-" },
+			{ "aasta": "2010", "mehed ja naised": "1333290", "mehed": "620800", "naised": "712490", "-": "-" },
+			{ "aasta": "2011", "mehed ja naised": "1329660", "mehed": "619700", "naised": "709960", "-": "-" },
+			{ "aasta": "2012", "mehed ja naised": "1325217", "mehed": "618138", "naised": "707079", "-": "-" },
+			{ "aasta": "2013", "mehed ja naised": "1320174", "mehed": "616167", "naised": "704007", "-": "-" },
+			{ "aasta": "2014", "mehed ja naised": "1315819", "mehed": "614919", "naised": "700900", "-": "-" },
+			{ "aasta": "2015", "mehed ja naised": "1313271", "mehed": "614389", "naised": "698882", "-": "-" },
+			{ "aasta": "2016", "mehed ja naised": "1315944", "mehed": "616708", "naised": "699236", "-": "-" },
+			{ "aasta": "2017", "mehed ja naised": "1315635", "mehed": "617538", "naised": "698097", "-": "-" },
+			{ "aasta": "2018", "mehed ja naised": "1319133", "mehed": "621084", "naised": "698049", "-": "-" }
+		]
+	}
+}
